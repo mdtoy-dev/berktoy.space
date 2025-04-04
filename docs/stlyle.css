@@ -1,0 +1,17 @@
+/* Dark futuristic theme */
+body {
+  background: #0a0a0a;
+  color: #e0e0e0;
+  font-family: 'Courier New', monospace;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+a { color: #4da6ff; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Glowing terminal cursor effect */
+::selection { background: #4da6ff; color: black; }
+

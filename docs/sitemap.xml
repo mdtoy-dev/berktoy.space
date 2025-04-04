@@ -3,4 +3,14 @@
     <url>
         <loc>https://berktoy.space/</loc>
     </url>
+    <url>
+        <loc>https://berktoy.space/blog/</loc>
+    </url>
+    <url>
+        <loc>https://berktoy.space/blog/chapter1/</loc>
+        <lastmod>2024-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://berktoy.space/blog/why-medicine/</loc>
+    </url>
 </urlset>
