@@ -8,7 +8,10 @@ theme  = "duckquill"
 author = "Berk Toy"
 description = "Ex-doctor writing sci-fi about CRISPR and post-humanity."
 accent_color = "#4da6ff"  # Futuristic blue
+accent_color_dark = "#00ffcc"
 syntax_theme = "gruvbox-dark"
+default_theme = "dark"
+emoji_favicon = "🧬"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
