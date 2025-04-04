@@ -1,6 +1,15 @@
 # The URL the site will be built for
 base_url = "https://berktoy.space"
 
+theme  = "duckquill"
+
+# Optional: Override Duckquill settings
+[extra]
+author = "Berk Toy"
+description = "Ex-doctor writing sci-fi about CRISPR and post-humanity."
+accent_color = "#4da6ff"  # Futuristic blue
+syntax_theme = "gruvbox-dark"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 

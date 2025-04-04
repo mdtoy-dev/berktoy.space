@@ -1,11 +1,12 @@
 +++
 title = "Berk Toy"
-description = "Ex-doctor writing sci-fi about CRISPR, AI, and the future of sentience."
 +++
 
-**I dismantled human bodies. Now I dissect reality.**  
+**« SYSTEM READY »**  
 
-- Latest: [*The Post-Human Protocols*](/blog/chapter1) (WIP)  
-- Archived: [Why I Abandoned Medicine](/blog/why-medicine)  
+Former doctor. Self-taught hacker. Building worlds where:  
+- **CRISPR edits souls**  
+- **AI questions godhood**  
+- **Humanity is obsolete**  
 
-No ads. No algorithms. Just words.  
+Latest: [*The Post-Human Protocols*](/blog/chapter1)  s. Just words.  
