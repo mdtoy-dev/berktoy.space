@@ -1,5 +1,3 @@
-
-Copy
 +++
 title = "Chapter 1: The CRISPR Abyss"
 date = 2024-05-20
