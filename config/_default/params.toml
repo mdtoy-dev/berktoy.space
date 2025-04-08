@@ -2,9 +2,9 @@
 title = "berktoy"
 description = "Carbon based multifunctional complex electrical circuit"
 
-# mainSections
-mainSections = ["books"]
-
+#main sections
+mainSections = ["book"]  # Already set - good!
+sectionNav = ["book"]    # Already set - good!
 
 # Doks (@thulite/doks-core)
 [doks]
@@ -37,7 +37,7 @@ mainSections = ["books"]
   bootstrapJavascript = false # false (default) or true
 
   # Nav
-  sectionNav = ["books"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
+  sectionNav = ["book"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
   toTopButton = false # false (default) or true
   breadcrumbTrail = false # false (default) or true
   headlineHash = true # true (default) or false

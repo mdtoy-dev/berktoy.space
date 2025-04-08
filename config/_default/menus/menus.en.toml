@@ -1,6 +1,6 @@
 [[main]]
-  name = "Books"
-  url = "/books"
+  name = "Book"
+  url = "/book"
   weight = 10
 
 [[main]]
