@@ -1,5 +1,5 @@
 title = "berktoy"
-baseurl = "http://localhost/"
+baseurl = "http://berktoy.space"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
