@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to my space on berktoy</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to my space on berktoy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Freudian, Biblical, and Absurdist Triumph in Minimalist Filmmaking</title>
+      <link>http://localhost:1313/blog/a-freudian-biblical-and-absurdist-triumph-in-minimalist-filmmaking/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/a-freudian-biblical-and-absurdist-triumph-in-minimalist-filmmaking/</guid>
+      <description>Black, White, and Forbidden Fruit: Style and Allegory in Mark H. Rapaport&amp;rsquo;s &amp;lsquo;Hippo&amp;rsquo;</description>
+    </item>
+    <item>
+      <title>first part the beginning</title>
+      <link>http://localhost:1313/book/chapter-1/example/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>http://localhost:1313/book/chapter-1/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>second chapter 1st part</title>
+      <link>http://localhost:1313/book/chapter-2/example/</link>
+      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
+      <guid>http://localhost:1313/book/chapter-2/example/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
