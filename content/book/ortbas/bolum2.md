@@ -38,7 +38,7 @@ seo:
 
 **AYŞE:** *(Dehşetle)* Anne! Senin ne işin var burada? Nereden çıktın? Lütfen git! Yalvarırım, her şeyi daha kötü yapma!
 
-**MURAT:** *(Fatma'ya döner, sesi sertleşir)* Senin o pislik kocan olacak adam yüzünden bu haldeyiz, farkında değil misin? Bilmiyor musun sandın ne yaptığını? Kızına neler ettiğini?
+**MURAT:** *(Fatma'ya döner, sesi sertleşir)* Senin o pislik kocan olacak adam yüzünden bu haldeyiz, farkında değil misin? Bilmiyor musun ne yaptığını? Kızına neler ettiğini?
 
 **FATMA:** Ne demekmiş o? Kes sesini katil suratlı! Küçükken de bir uğursuzluk vardı sende zaten! Defol git buradan! Sana kız mız yok! Bırak kızımı!
 
