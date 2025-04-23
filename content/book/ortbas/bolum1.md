@@ -38,7 +38,7 @@ seo:
 
 **AYŞE:** *(Sakin bir sesle)* Anne, neden hemen kötüye yoruyorsun? Belki de iyi bir şeydir. Hem sen demez misin, millet neler yapıyor bir evlat için diye? Demek ki bir kıymeti var. Hem bak, yaşım kaç oldu, kendi hayatımı kurmamın vakti gelmedi mi?
 
-**FATMA:** Fena tabii! Fena! Ne diyeceğiz biz şimdi millete? Baban duyarsa ne olur hiç düşündün mü? "Bizim kıza melekler uğradı, babasız hamile kaldı!" mı diyeceğiz? Yoksa başka bir şey mi var? Söyle doğruyu!
+**FATMA:** Ne diyeceğiz biz şimdi millete? Baban duyarsa ne olur hiç düşündün mü? "Bizim kıza melekler uğradı, babasız hamile kaldı!" mı diyeceğiz? Yoksa başka bir şey mi var? Söyle doğruyu!
 
 **AYŞE:** *(Hafif bir gülümsemeyle)* Öyle dersek belki eş dost acır da bize pasta börek getirir, fena mı olur? Hem belki... belki bir mucizedir anne?
 
