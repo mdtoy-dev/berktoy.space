@@ -50,6 +50,6 @@ seo:
 
 *(Murat şok içinde Ayşe'ye koşar, nabzını kontrol etmeye çalışır. Fatma, elindeki nesneyi bırakır. Yüzü ifadesizdir, gözleri boşluğa bakar. Kısa bir sessizlikten sonra Murat'a döner. Sesi buz gibidir.)*
 
-**FATMA:** Dinle beni şimdi. Şunu yapacaksın: Hemen şimdi oturup Ayşe ile kaçtığınıza dair birkaç mektup yazacaksın. Ailesine, eşe dosta... Herkese göndereceksin bunları. Sonra da buradan defolup gideceksin! Bir daha da asla geri dönmeyeceksin! Eğer yapmazsan, yemin ederim, Ayşe'yi sen öldürdün derim! Hem de tecavüz edip öldürdüğünü söylerim! Kim sana inanır sanıyorsun? Bu halinle? O katil suratınla? Kim inanır?
+**FATMA:** Dinle beni şimdi. Şunu yapacaksın: Hemen şimdi oturup Ayşe ile kaçtığınıza dair birkaç mektup yazacaksın. Ailene, eşe dosta... Herkese göndereceksin bunları. Sonra da buradan defolup gideceksin! Bir daha da asla geri dönmeyeceksin! Eğer yapmazsan, yemin ederim, Ayşe'yi sen öldürdün derim! Hem de tecavüz edip öldürdüğünü söylerim! Kim sana inanır sanıyorsun? Bu halinle? O katil suratınla? Kim inanır?
 
 *(Murat dehşet içinde Fatma'ya bakar. Konuşamaz. Sahne kararır.)*
