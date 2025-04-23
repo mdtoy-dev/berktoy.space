@@ -16,6 +16,8 @@ seo:
 
 # ÖRTBAS
 
+*Esin Kaynağı: [BBC News - Who was the murderer whose skin binds a book?](https://www.bbc.com/news/articles/cn0wrdleer2o)*
+
 ## 3 Bölüm
 
 ## Kişiler

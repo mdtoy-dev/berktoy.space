@@ -26,7 +26,7 @@ seo:
 
 **ALİ:** *(Gözlerini kapatır, başını sallar)* Verin. Gözünüz üzerinde olsun.
 
-*(Hemşire çıkar. Ali masadaki bir fotoğrafa bakar. Ayşe'nin fotoğrafı olabilir. İç çeker. Fatma'nın sözleri onda bir şüphe uyandırmıştır.)*
+*(Hemşire çıkar. Ali masadaki Ayşe'nin fotoğrafına bakar. İç çeker. Fatma'nın sözleri onda bir şüphe uyandırmıştır.)*
 
 **Sahne 2:**
 
@@ -46,7 +46,7 @@ seo:
 
 *(Tıp fakültesinin soğuk bir odası. Murat'ın cesedi otopsi masasındadır. Ali, beyaz önlüğüyle oradadır. Ali'nin yüzü ifadesizdir ama gözlerinde bir fırtına kopar.)*
 
-*(Ali, prosedür gereği veya kendi isteğiyle, Murat'ın derisinin bir kısmının yüzülmesini izler veya yapar. Bu sırada aklı başka yerdedir.)*
+*(Ali, prosedür gereği veya kendi isteğiyle, Murat'ın derisinin bir kısmını yüzer. Bu sırada aklı başka yerdedir.)*
 
 **Sahne 5:**
 
