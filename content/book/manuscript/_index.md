@@ -1,5 +1,5 @@
 ---
-title: "Book"
+title: "Manuscript"
 description: ""
 coverImage: ""
 summary: ""
