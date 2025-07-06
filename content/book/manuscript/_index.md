@@ -1,5 +1,5 @@
 ---
-title: "ÖRTBAS"
+title: "Part 1"
 description: ""
 coverImage: ""
 summary: ""
