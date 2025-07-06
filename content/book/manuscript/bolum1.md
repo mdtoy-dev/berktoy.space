@@ -14,3 +14,4 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
+### Categorization - Definition
