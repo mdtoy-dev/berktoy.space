@@ -1,5 +1,5 @@
 ---
-title: "Part 1"
+title: "Book"
 description: ""
 coverImage: ""
 summary: ""
